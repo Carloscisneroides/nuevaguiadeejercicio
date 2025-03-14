@@ -4,3 +4,5 @@
  Los ejercicios de Pilates se realizan de manera lenta y controlada, priorizando la precisión y la calidad del movimiento sobre la cantidad o velocidad.
  # Conexión mente-cuerpo:
   Promueve la concentración y la conciencia corporal, ya que cada movimiento se realiza con atención plena, coordinando la respiración con el ejercicio.
+  # Mejora de la flexibilidad y la postura: 
+  Ayuda a alargar y fortalecer los músculos, mejorando la alineación corporal y corrigiendo desequilibrios posturales.
