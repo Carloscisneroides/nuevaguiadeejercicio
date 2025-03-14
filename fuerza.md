@@ -8,3 +8,5 @@
 
    # Entrenamiento progresivo:  
    Se desarrolla mediante ejercicios específicos que aumentan gradualmente la carga, como levantamiento de pesas, ejercicios con el peso corporal o resistencia elástica.
+   # Beneficios funcionales: 
+   Mejora la postura, previene lesiones, aumenta la densidad ósea y facilita la realización de actividades diarias que requieren esfuerzo físico.
