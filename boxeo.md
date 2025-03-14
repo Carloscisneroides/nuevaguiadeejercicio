@@ -12,3 +12,7 @@ francia
 # los maximos ganadores
 1. Gilberti ramirez
 2. jai opetai
+# consejos para boxeo 
+1. postura 
+2. guardia 
+3. equilibrio
