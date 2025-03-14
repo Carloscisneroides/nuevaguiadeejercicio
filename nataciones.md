@@ -3,3 +3,6 @@
 
  # Bajo impacto:
   Es una actividad de bajo impacto para las articulaciones, ideal para personas con lesiones o problemas articulares, ya que el agua reduce la presión sobre el cuerpo.
+
+  # Mejora cardiovascular y respiratoria: 
+  Al ser un ejercicio aeróbico, la natación mejora la capacidad pulmonar, la resistencia cardiovascular y la eficiencia del sistema respiratorio.
