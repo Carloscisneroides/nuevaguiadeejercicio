@@ -13,3 +13,4 @@ La flexibilidad se refiere a la capacidad de las articulaciones para moverse a t
  # Ayuda a prevenir lesiones y mejorar la movilidad.
  Una buena flexibilidad ayuda a reducir el riesgo de lesiones al mejorar la movilidad, aliviar tensiones musculares y permitir que el cuerpo se adapte mejor a movimientos inesperados o exigentes.
 
+#
