@@ -6,3 +6,6 @@
 
   # Mejora cardiovascular y respiratoria: 
   Al ser un ejercicio aeróbico, la natación mejora la capacidad pulmonar, la resistencia cardiovascular y la eficiencia del sistema respiratorio.
+
+  # Técnica y coordinación:
+   Requiere el desarrollo de una buena técnica y coordinación entre brazos, piernas y respiración para realizar los diferentes estilos (crol, espalda, braza y mariposa).
