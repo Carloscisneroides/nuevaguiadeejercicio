@@ -9,3 +9,6 @@ francia
 1. prof
 2. amateur
 3. cubano
+# los maximos ganadores
+1. Gilberti ramirez
+2. jai opetai
