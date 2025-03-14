@@ -7,3 +7,5 @@ las zonas de entrenamiento
 crossfit se centra en los movimientos funcionales
 # competencias internacionales 
 los crossfit games desde el 2007
+# comunidad global
+existen mas 15.000 personas
