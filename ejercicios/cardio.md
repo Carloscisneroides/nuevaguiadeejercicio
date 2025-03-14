@@ -10,3 +10,5 @@ aprender a respirar
 aprende a flotar 
 practica la patada
 aprende a mover los brazos
+# consejo de como nadar 
+manten de la calma 
