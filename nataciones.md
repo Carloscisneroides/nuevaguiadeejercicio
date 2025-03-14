@@ -9,3 +9,6 @@
 
   # Técnica y coordinación:
    Requiere el desarrollo de una buena técnica y coordinación entre brazos, piernas y respiración para realizar los diferentes estilos (crol, espalda, braza y mariposa).
+
+   # Versatilidad y accesibilidad: 
+   Puede practicarse como deporte competitivo, actividad recreativa o terapia, y es apta para personas de todas las edades y niveles de condición física.
