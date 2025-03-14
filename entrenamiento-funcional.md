@@ -9,3 +9,5 @@ Los ejercicios funcionales suelen incluir movimientos que desafían la estabilid
 
 # Adaptabilidad y personalización
 Los entrenamientos funcionales pueden adaptarse a cualquier nivel de condición física, desde principiantes hasta atletas avanzados, ajustando la intensidad, el peso y la complejidad de los ejercicios.
+# Uso de equipamiento variado:
+Se emplean herramientas como pesas rusas, balones medicinales, bandas elásticas, TRX, cajas de salto y más, aunque también se pueden realizar ejercicios con el peso corporal, lo que los hace versátiles y accesibles.
