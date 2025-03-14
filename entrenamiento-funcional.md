@@ -6,3 +6,6 @@ Este tipo de entrenamiento está diseñado para mejorar las habilidades necesari
 
 # Enfoque en la estabilidad y el equilibrio:
 Los ejercicios funcionales suelen incluir movimientos que desafían la estabilidad del cuerpo, fortaleciendo el core (zona media) y mejorando el equilibrio general.
+
+# Adaptabilidad y personalización
+Los entrenamientos funcionales pueden adaptarse a cualquier nivel de condición física, desde principiantes hasta atletas avanzados, ajustando la intensidad, el peso y la complejidad de los ejercicios.
