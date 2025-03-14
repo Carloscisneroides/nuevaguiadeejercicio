@@ -1,0 +1,2 @@
+# Movimientos multiarticulares y dinámicos: 
+Los entrenamientos funcionales se centran en ejercicios que involucran múltiples articulaciones y grupos musculares al mismo tiempo, imitando movimientos naturales del cuerpo como empujar, tirar, girar, agacharse o levantar.
